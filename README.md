@@ -109,7 +109,7 @@ You can view the PDF version of the Superstore Sales Dashboard [here](https://gi
   - Washington: $93,000
   - Pennsylvania: $82,000
 
-## ACRIONABLE INSIGHTS AND RECOMMENDATIONS
+## ACTIONABLE INSIGHTS AND RECOMMENDATIONS
 
 ### Category and Sub-Category Analysis
 - **Office Supplies Dominance**: The Office Supplies category has the highest sales, suggesting a strong demand in this area. Focus on promotional strategies for other categories like Technology and Furniture to balance the sales distribution.
