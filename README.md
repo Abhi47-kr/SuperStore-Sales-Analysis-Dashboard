@@ -37,7 +37,7 @@ Data Extraction, Transformation, and Loading
 
 ## SALES DASHBOARD
 1. **Visual Customization**: Changing the canvas background to enhance the overall look and feel of the dashboard.
-2. **Clustered Bar Chart**: Creating clustered bar charts to visualize sales by category, subcategory, and ship mode. This allows for easy comparison and identification of trends.
+2. **Clustered Bar Chart**: Creating clustered bar charts to visualize sales by category and subcategory. This allows for easy comparison and identification of trends.
 3. **Stacked Area Chart**: To compare sales and profit year over year. Analyzing monthly sales and profit trends provides insights into performance patterns.
    - **Add Month Column**: Used DAX to create a new column that extracts the month from the order date.
    ```DAX
