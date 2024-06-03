@@ -61,7 +61,7 @@ Data Extraction, Transformation, and Loading
   ```
 You can view the PDF version of the Superstore Sales Dashboard [here](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-in-Power-BI/blob/483287175d5dd41a504a6bc985c3e01a85af335b/Super_Store_Sales_Dashboard_.pdf) | For the interactive Superstore Sales Dashboard Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTI3OWI1ZDktMjQ3Ni00OTQ0LWE1MGEtZDVlMjVhNDBhN2U0IiwidCI6Ijg1MDY3ODBjLWIxMjQtNGY3Zi04YTkwLWY4NWRlYzk1NjU5ZCJ9)
 
-## Key Findings
+## KEY FINDINGS
 
 ### Overall Sales and Profitability
 - **Total Sales**: The SuperStore has achieved total sales of $1.6 million.
@@ -109,7 +109,7 @@ You can view the PDF version of the Superstore Sales Dashboard [here](https://gi
   - Washington: $93,000
   - Pennsylvania: $82,000
 
-## Actionable Insights and Recommendations
+## ACRIONABLE INSIGHTS AND RECOMMENDATIONS
 
 ### Category and Sub-Category Analysis
 - **Office Supplies Dominance**: The Office Supplies category has the highest sales, suggesting a strong demand in this area. Focus on promotional strategies for other categories like Technology and Furniture to balance the sales distribution.
@@ -130,6 +130,6 @@ You can view the PDF version of the Superstore Sales Dashboard [here](https://gi
 ### Sales Forecast
 - **15-Day Forecast**: The sales forecast for the next 15 days can help in demand planning and inventory management. Ensuring sufficient stock levels and timely promotions can help in meeting the forecasted sales targets.
 
-## Conclusion
+## CONCLUSION
 The SuperStore Sales Analysis Dashboard provides a comprehensive view of sales performance, highlighting key areas of strength and opportunities for improvement. By leveraging these insights, the SuperStore can optimize its strategies to drive sales growth and enhance customer satisfaction.
 
