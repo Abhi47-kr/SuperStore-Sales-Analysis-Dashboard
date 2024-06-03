@@ -53,7 +53,7 @@ Data Extraction, Transformation, and Loading
    Ship Days = DATEDIFF('Table'[Order Date], 'Table'[Ship Date], DAY)
    ```
 
-## Sales Forecasting
+## SALES FORECASTING
 - **Sales Forecast**: Adding a new page to showcase sales forecast using a line chart visual. This allows to analyze and predict future sales trends based on historical data.
   - DAX Table Creation: Group Sales by Order Date.
   ```DAX
@@ -61,4 +61,75 @@ Data Extraction, Transformation, and Loading
   ```
 You can view the PDF version of the Superstore Sales Dashboard [here](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-in-Power-BI/blob/483287175d5dd41a504a6bc985c3e01a85af335b/Super_Store_Sales_Dashboard_.pdf) | For the interactive Superstore Sales Dashboard Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTI3OWI1ZDktMjQ3Ni00OTQ0LWE1MGEtZDVlMjVhNDBhN2U0IiwidCI6Ijg1MDY3ODBjLWIxMjQtNGY3Zi04YTkwLWY4NWRlYzk1NjU5ZCJ9)
 
-  
+## Key Findings
+
+### Overall Sales and Profitability
+- **Total Sales**: The SuperStore has achieved total sales of $1.6 million.
+- **Total Profit**: The total profit stands at $175,000.
+- **Orders**: The total number of orders processed is 22,000.
+- **Shipping Days**: The average shipping time is 4 days.
+
+### Sales by Category
+- **Top Categories**:
+  - Office Supplies: $640,000
+  - Technology: $470,000
+  - Furniture: $450,000
+
+### Sales by Sub-Category
+- **Leading Sub-Categories**:
+  - Phones: $200,000
+  - Chairs: $180,000
+  - Binders: $170,000
+  - Storage: $150,000
+  - Accessories: $120,000
+
+### Monthly Sales Trends
+- **2019 vs. 2020**: There is a clear year-over-year comparison indicating sales performance each month, showing trends and seasonality.
+
+### Sales by Segment
+- **Customer Segments**:
+  - Corporate: 48% of total sales
+  - Consumer: 33% of total sales
+  - Home Office: 19% of total sales
+
+### Sales by Payment Mode
+- **Preferred Payment Methods**:
+  - Cash on Delivery (COD): 43%
+  - Online payments: 35%
+  - Card payments: 22%
+
+### Sales by Region
+- **Regional Performance**: Sales are distributed across Central, East, South, and West regions with varied performance.
+
+### Top Performing States
+- **Top States by Sales**:
+  - California: $335,000
+  - New York: $187,000
+  - Texas: $116,000
+  - Washington: $93,000
+  - Pennsylvania: $82,000
+
+## Actionable Insights and Recommendations
+
+### Category and Sub-Category Analysis
+- **Office Supplies Dominance**: The Office Supplies category has the highest sales, suggesting a strong demand in this area. Focus on promotional strategies for other categories like Technology and Furniture to balance the sales distribution.
+- **Sub-Category Focus**: Phones and Chairs are the leading sub-categories. Increasing inventory and marketing efforts in these sub-categories could boost sales further.
+
+### Sales Trends and Seasonality
+- **Monthly Sales Trends**: The dashboard shows fluctuations in monthly sales between 2019 and 2020. Identifying reasons for peaks and troughs can help in planning marketing campaigns and inventory management.
+
+### Customer Segmentation
+- **Corporate Segment**: With Corporate customers making up almost half of the sales, tailor your sales strategies and product offerings to meet the needs of this segment.
+
+### Payment Methods
+- **Cash on Delivery Popularity**: COD is the most popular payment method. Ensuring a smooth COD process and exploring incentives for other payment methods could improve sales and customer satisfaction.
+
+### Regional and State Performance
+- **Focus on High Performing States**: California, New York, and Texas are the top-performing states. Strategies to replicate success in these states could be applied to lower-performing regions to boost overall sales.
+
+### Sales Forecast
+- **15-Day Forecast**: The sales forecast for the next 15 days can help in demand planning and inventory management. Ensuring sufficient stock levels and timely promotions can help in meeting the forecasted sales targets.
+
+## Conclusion
+The SuperStore Sales Analysis Dashboard provides a comprehensive view of sales performance, highlighting key areas of strength and opportunities for improvement. By leveraging these insights, the SuperStore can optimize its strategies to drive sales growth and enhance customer satisfaction.
+
