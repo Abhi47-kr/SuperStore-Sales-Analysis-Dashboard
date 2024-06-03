@@ -15,4 +15,4 @@
 To enhance business success by applying data analysis techniques, with an emphasis on *Time Series Analysis*, to deliver meaningful insights and precise *Sales Forecasting* through an interactive Dashboard.
 
 ## DATA SOURCES
-The dataset is a US-based SuperStore Sales dataset which is in an Excel file. You can access the dataset [here](link_to_excel_file_in_repository).
+The dataset is a US-based SuperStore Sales dataset which is in an Excel file. You can access the dataset [here](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-in-Power-BI/blob/93a9f3667815aaa7039dbc476c0284009cbe2240/SuperStore%20Sales%20DataSet.xlsx).
