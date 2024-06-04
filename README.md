@@ -59,7 +59,7 @@ Data Extraction, Transformation, and Loading
   ```DAX
   SalesByDate = SUMMARIZE('Table', 'Table'[Order Date], "Sales", SUM('Table'[Sales]))
   ```
-You can view the PDF version of the Superstore Sales Dashboard [here](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-in-Power-BI/blob/483287175d5dd41a504a6bc985c3e01a85af335b/Super_Store_Sales_Dashboard_.pdf) | For the interactive Superstore Sales Dashboard Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYTI3OWI1ZDktMjQ3Ni00OTQ0LWE1MGEtZDVlMjVhNDBhN2U0IiwidCI6Ijg1MDY3ODBjLWIxMjQtNGY3Zi04YTkwLWY4NWRlYzk1NjU5ZCJ9)
+You can view the PDF version of the Superstore Sales Dashboard [here](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-in-Power-BI/blob/483287175d5dd41a504a6bc985c3e01a85af335b/Super_Store_Sales_Dashboard_.pdf) | For the interactive Superstore Sales Dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiYTI3OWI1ZDktMjQ3Ni00OTQ0LWE1MGEtZDVlMjVhNDBhN2U0IiwidCI6Ijg1MDY3ODBjLWIxMjQtNGY3Zi04YTkwLWY4NWRlYzk1NjU5ZCJ9)
 
 ## KEY FINDINGS
 
