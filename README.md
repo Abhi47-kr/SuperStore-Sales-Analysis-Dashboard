@@ -1,5 +1,8 @@
 # SUPERSTORE SALES ANALYSIS DASHBOARD
 
+![Screenshot (44)](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-Dashboard/assets/168676103/c793895f-cc4e-415f-ae34-17aaed1cf334)
+
+
 ## TABLE OF CONTENTS
 1. [Project Objective](#project-objective)
 2. [Data Sources](#data-sources)
@@ -59,6 +62,9 @@ Data Extraction, Transformation, and Loading
   ```DAX
   SalesByDate = SUMMARIZE('Table', 'Table'[Order Date], "Sales", SUM('Table'[Sales]))
   ```
+![Screenshot (45)](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-Dashboard/assets/168676103/21489281-eacb-489c-8578-d7833bd26e4e)
+
+  
 You can view the PDF version of the Superstore Sales Dashboard [here](https://github.com/Abhi47-kr/SuperStore-Sales-Analysis-in-Power-BI/blob/86d9916bccf5eaef14e8089f0a3e24de51309475/Super_Store_Sales_Dashboard_pdf.pdf) | For the interactive Superstore Sales Dashboard click [here](https://app.powerbi.com/view?r=eyJrIjoiM2VkYTE0NjktZjdkMC00NmQ1LWJhZDUtNzJiOTY4MzBmOWEwIiwidCI6Ijg1MDY3ODBjLWIxMjQtNGY3Zi04YTkwLWY4NWRlYzk1NjU5ZCJ9)
 
 ## KEY FINDINGS
